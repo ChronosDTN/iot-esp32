@@ -422,8 +422,8 @@ No vídeo de demonstração, apresentar:
 
 ## 🔗 Links
 
-* Link do Wokwi: **INSERIR AQUI**
-* Link do vídeo: **INSERIR AQUI**
+* Link do Wokwi: **https://wokwi.com/projects/466365283036737537**
+* Link do vídeo: **https://youtu.be/fnwLRYCOZsc**
 
 
 ---
